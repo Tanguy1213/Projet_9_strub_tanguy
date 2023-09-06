@@ -1,0 +1,9 @@
+# Cache static files for 1 week
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.js
+*.css
+*.webp
+Cache-Control: max-age=604800
